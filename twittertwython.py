@@ -3,26 +3,6 @@ from sopel.config.types import StaticSection, ValidatedAttribute, ListAttribute,
 from twython import TwythonStreamer
 import html
 
-FOLLOW_LIST = [
-    '34743251',             # @SpaceX
-    '44196397',             # @elonmusk
-    #'759251',                # @cnn
-    '717876572338847744',   # @F9LandingLeg
-    '22845770',             # @ulalaunch
-    '17217640',             # @SpaceflightNow
-    '21292523',             # @NASASpaceflight
-    '832270448',            # @TrevorMahlmann (photographer)
-    '1056704328872935424',  # @Kyle_M_Photo (photographer)
-    '1077756486997168128',  # @BocaChicaGal
-    '290710248',            # @thejackbeyer
-    '3167257102',           # @Erdayastronaut
-    '752724282925412352',   # @RGVaerialphotos
-    '1275082205233111040'   # @KathyLueders
-] 
-
-QUERY_LIST = [
-] 
-
 api = None
 myStream = None
 myStreamListener = None
