@@ -12,5 +12,5 @@ twitter_follow =
 twitter_query =  
 	LIST OF WORDS OR HASHTAGS TO FOLLOW  
 
-[spacex]
-channel = <CHANNEL TO SERVE SPACEX INFO>
+[spacex] 
+channel = CHANNEL TO SERVE SPACEX INFO
