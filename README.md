@@ -11,3 +11,6 @@ twitter_follow =
 	LIST OF TWITTER IDS TO FOLLOW  
 twitter_query =  
 	LIST OF WORDS OR HASHTAGS TO FOLLOW  
+
+[spacex]
+channel = <CHANNEL TO SERVE SPACEX INFO>
